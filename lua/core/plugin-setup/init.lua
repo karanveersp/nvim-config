@@ -1,0 +1,5 @@
+require('core.plugin-setup.lualine')
+require('core.plugin-setup.nvim-tree')
+require('core.plugin-setup.telescope')
+require('core.plugin-setup.tagbar')
+require('core.plugin-setup.toggleterm')
